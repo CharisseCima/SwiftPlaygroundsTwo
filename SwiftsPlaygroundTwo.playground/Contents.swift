@@ -23,3 +23,53 @@ if gradeA == true
 }else {
     print("I'm not so sure about coding in Swift")
 }
+//Part 5: Problem Set 1
+var ten = 10
+var twenty = 20
+
+if ten > twenty
+{
+    
+    print("Cats are better than dogs")
+    
+}else {
+    
+    print("Dogs and cats are both great")
+    
+}
+
+//Part 5: Problem Set 2
+var dogs = "I love dogs"
+var cats = "I love cats"
+
+if dogs == "I love dogs"
+{
+    print("Then I shall get a dog!")
+}
+
+if cats == "I love cats"{
+    print("Than I shall get a cat!")
+}
+
+//Part 5: Problem Set 3
+var apples = false
+var pears = false
+
+if apples == true{
+
+    print("I just bought some apples")
+    
+}else{
+    
+    print("I had to get pears instead")
+    
+}
+
+if pears == true{
+    
+    print("I just bought some pears")
+    
+}else{
+    
+    print("I had to get apples instead")
+}
